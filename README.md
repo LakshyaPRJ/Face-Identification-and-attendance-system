@@ -16,4 +16,10 @@ Tech Stack:
 * NumPy
 * CSV module
 
+Output:
+* A live webcam window shows recognized faces with a “Present” label.
+* A CSV file named like 2025-07-19.csv is created with rows like:
+  Lakshya,14-22-05
+  Anshita,14-23-12
+
 --> To stop, press "Q" on keyboard.
